@@ -1,5 +1,6 @@
 package cn.itaz.easygou;
 
+import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.config.server.EnableConfigServer;
 import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
@@ -11,5 +12,7 @@ import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 @EnableEurekaClient //加入注册中心
 @EnableConfigServer //启动配置服务端
 public class ConfigServerAppllication_4396 {
-
+    public static void main(String[] args) {
+        SpringApplication.run(ConfigServerAppllication_4396.class,args);
+    }
 }

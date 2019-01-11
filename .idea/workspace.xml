@@ -2,24 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3fdb646-9b1e-4af7-ace2-5111f05ccfe5" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_javaewah_JavaEWAH_1_1_6.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jsch_0_1_54.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jzlib_1_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jgit_org_eclipse_jgit_4_11_0_201803080745_r.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jgit_org_eclipse_jgit_http_apache_4_11_0_201803080745_r.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_client_2_0_1_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_server_2_0_1_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config_server_4396/config_server_4396.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config_server_4396/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config_server_4396/src/main/java/cn/itaz/easygou/ConfigServerAppllication_4396.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config_server_4396/src/main/resources/application.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ground_parent/ground_util/src/main/java/cn/itaz/easygou/util/query/BaseQuery.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/config_server_4396/src/main/java/cn/itaz/easygou/ConfigServerAppllication_4396.java" afterPath="$PROJECT_DIR$/config_server_4396/src/main/java/cn/itaz/easygou/ConfigServerAppllication_4396.java" />
+      <change beforePath="$PROJECT_DIR$/config_server_4396/src/main/resources/application.yml" afterPath="$PROJECT_DIR$/config_server_4396/src/main/resources/application.yml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -57,26 +42,28 @@
       <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config_server_4396/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="24" lean-forward="false" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
+            <state relative-caret-position="390">
+              <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ConfigServerAppllication_4396.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ConfigServerAppllication_4396.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config_server_4396/src/main/java/cn/itaz/easygou/ConfigServerAppllication_4396.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+            <state relative-caret-position="314">
+              <caret line="15" column="72" lean-forward="false" selection-start-line="15" selection-start-column="72" selection-end-line="15" selection-end-column="72" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#499#500#0" expanded="true" />
+                <element signature="e#578#579#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BaseQuery.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BaseQuery.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ground_parent/ground_util/src/main/java/cn/itaz/easygou/util/query/BaseQuery.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="208">
@@ -134,9 +121,9 @@
         <option value="$PROJECT_DIR$/zuul_gateway_9527/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/zuul_gateway_9527/src/main/java/cn/itaz/easygou/config/DocumentationConfig.java" />
         <option value="$PROJECT_DIR$/config_server_4396/pom.xml" />
+        <option value="$PROJECT_DIR$/ground_parent/ground_util/src/main/java/cn/itaz/easygou/util/query/BaseQuery.java" />
         <option value="$PROJECT_DIR$/config_server_4396/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/config_server_4396/src/main/java/cn/itaz/easygou/ConfigServerAppllication_4396.java" />
-        <option value="$PROJECT_DIR$/ground_parent/ground_util/src/main/java/cn/itaz/easygou/util/query/BaseQuery.java" />
       </list>
     </option>
   </component>
@@ -512,12 +499,20 @@
       <workItem from="1547107845813" duration="20000" />
       <workItem from="1547117048756" duration="1332000" />
       <workItem from="1547168491774" duration="663000" />
-      <workItem from="1547186705282" duration="960000" />
+      <workItem from="1547186705282" duration="2347000" />
     </task>
+    <task id="LOCAL-00001" summary="1.创建关键字基础查询&#10;2.配置服务端的基础搭建">
+      <created>1547187723477</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1547187723477</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18504000" />
+    <option name="totallyTimeSpent" value="19891000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -560,6 +555,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1.创建关键字基础查询&#10;2.配置服务端的基础搭建" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.创建关键字基础查询&#10;2.配置服务端的基础搭建" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -756,24 +755,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config_server_4396/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="24" lean-forward="false" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config_server_4396/src/main/java/cn/itaz/easygou/ConfigServerAppllication_4396.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ground_parent/ground_util/src/main/java/cn/itaz/easygou/util/query/BaseQuery.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
@@ -782,6 +763,26 @@
             <element signature="e#175#176#0" expanded="true" />
             <element signature="e#221#222#0" expanded="true" />
             <element signature="e#259#260#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config_server_4396/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config_server_4396/src/main/java/cn/itaz/easygou/ConfigServerAppllication_4396.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="15" column="72" lean-forward="false" selection-start-line="15" selection-start-column="72" selection-end-line="15" selection-end-column="72" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#499#500#0" expanded="true" />
+            <element signature="e#578#579#0" expanded="true" />
           </folding>
         </state>
       </provider>

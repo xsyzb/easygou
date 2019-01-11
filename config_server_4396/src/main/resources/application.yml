@@ -1,6 +1,6 @@
 # 配置服务端 到GitHub中 通过 Git 获取配置
 server:
-  port: 1299
+  port: 4396
 eureka:
   client:
     service-url:
@@ -9,11 +9,11 @@ eureka:
     prefer-ip-address: true
 spring:
   application:
-    name: spring-cloud-config-server
+    name: easygou-config-server
   cloud:
     config:
       server:
         git:
-          uri: https://github.com/xsyzb/easygou.git
+          uri: https://github.com/xsyzb/easygou--.git #服务端配置GitHub上的路径
           username: xsyzb
           password: punchlove@123
