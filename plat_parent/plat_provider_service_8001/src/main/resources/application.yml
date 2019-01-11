@@ -3,9 +3,10 @@ server:
 spring:
   application:
     name: easygou-plat
-eureka:
-  client:
-    service-url:
-      defaultZone: http://localhost:7001/eureka
-  instance:
-    prefer-ip-address: true
+#保留基础原型.使用服务端全局配置
+#eureka:
+#  client:
+#    service-url:
+#      defaultZone: http://localhost:7001/eureka
+#  instance:
+#    prefer-ip-address: true
