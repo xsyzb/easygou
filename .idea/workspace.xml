@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c3fdb646-9b1e-4af7-ace2-5111f05ccfe5" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/config_server_4396/src/main/java/cn/itaz/easygou/ConfigServerAppllication_4396.java" afterPath="$PROJECT_DIR$/config_server_4396/src/main/java/cn/itaz/easygou/ConfigServerAppllication_4396.java" />
-      <change beforePath="$PROJECT_DIR$/config_server_4396/src/main/resources/application.yml" afterPath="$PROJECT_DIR$/config_server_4396/src/main/resources/application.yml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -499,7 +497,7 @@
       <workItem from="1547107845813" duration="20000" />
       <workItem from="1547117048756" duration="1332000" />
       <workItem from="1547168491774" duration="663000" />
-      <workItem from="1547186705282" duration="2347000" />
+      <workItem from="1547186705282" duration="2407000" />
     </task>
     <task id="LOCAL-00001" summary="1.创建关键字基础查询&#10;2.配置服务端的基础搭建">
       <created>1547187723477</created>
@@ -508,11 +506,18 @@
       <option name="project" value="LOCAL" />
       <updated>1547187723477</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="配置服务端的基础搭建——入口类，配置修改">
+      <created>1547189456464</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1547189456464</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19891000" />
+    <option name="totallyTimeSpent" value="19951000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -558,7 +563,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1.创建关键字基础查询&#10;2.配置服务端的基础搭建" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.创建关键字基础查询&#10;2.配置服务端的基础搭建" />
+    <MESSAGE value="配置服务端的基础搭建——入口类，配置修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="配置服务端的基础搭建——入口类，配置修改" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
