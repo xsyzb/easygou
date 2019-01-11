@@ -22,6 +22,7 @@
         <module>zuul_gateway_9527</module>
         <module>plat_parent</module>
         <module>ground_parent</module>
+        <module>config_server_4396</module>
     </modules>
 
     <dependencyManagement>

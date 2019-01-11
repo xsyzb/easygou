@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/config_server_4396/config_server_4396.iml" filepath="$PROJECT_DIR$/config_server_4396/config_server_4396.iml" />
       <module fileurl="file://$PROJECT_DIR$/easygou_eureka_server_7001/easygou_eureka_server_7001.iml" filepath="$PROJECT_DIR$/easygou_eureka_server_7001/easygou_eureka_server_7001.iml" />
       <module fileurl="file://$PROJECT_DIR$/easygou_parent.iml" filepath="$PROJECT_DIR$/easygou_parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/ground_parent/ground_parent.iml" filepath="$PROJECT_DIR$/ground_parent/ground_parent.iml" />
